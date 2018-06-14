@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-      <header id="header">
+      <header id="header" style="text-align: center">
           梯外屏展示Demo
       </header>
        <section>
@@ -27,7 +27,6 @@
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
 }
   #header{
